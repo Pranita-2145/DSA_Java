@@ -5,6 +5,6 @@
 4. Tappering.java = Contains solution for classic Tappering water Problem(Que 22 in AC DSA sheet)
 5. Stockprice.java = Given an array prices[] where prices[i] is the price of a stock on day i,
 Find the maximum profit from a single buy-sell transaction (buy before you sell).
-6. BubbleSort.java = Contains solution for sorting a given array in asending order using bubble sort algorithm.
+6. BubbleSort.java = Contains solution for sorting a given array in asending order using bubble sort algorithm. Also added code of Inbuit sorting 
 7. Selectionsort.java = Contains solution for sorting a given array in asending order using Selection sort algorithm.
 8. Insertionsort.java =  Contains solution for sorting a given array in asending order using Insertion sort algorithm.
