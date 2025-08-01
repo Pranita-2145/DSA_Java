@@ -9,4 +9,5 @@ Find the maximum profit from a single buy-sell transaction (buy before you sell)
 7. Selectionsort.java = Contains solution for sorting a given array in asending order using Selection sort algorithm.
 8. Insertionsort.java =  Contains solution for sorting a given array in asending order using Insertion sort algorithm.
 9. Countingsort.java = Added code od Counting sort algorithm
+10. QuickSort.java = Contains code for Sorting Algorithm using QuickSort
 
