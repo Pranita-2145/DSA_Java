@@ -11,4 +11,5 @@ Find the maximum profit from a single buy-sell transaction (buy before you sell)
 9. Countingsort.java = Added code od Counting sort algorithm
 10. QuickSort.java = Contains code for Sorting Algorithm using QuickSort
 11.Patterns.java = Contains Pattern(Printing stars, Inverted stars)
+12. TwoDarrays.java = Contains code for creating 2D arrays(Matrix). Also to find an element, print smallest & largest element from the 2D Arrays(Matrix)
 
