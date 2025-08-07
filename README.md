@@ -13,4 +13,6 @@ Find the maximum profit from a single buy-sell transaction (buy before you sell)
 11.Patterns.java = Contains Pattern(Printing stars, Inverted stars)
 12. TwoDarrays.java = Contains code for creating 2D arrays(Matrix). Also to find an element, print smallest & largest element from the 2D Arrays(Matrix)
 13. Spiralmatrix.java = Contains code for spiral matrix
+14. DiagonalSum.java = Contains code to calculate diagonal sum of sorted matrix
+15. TwoSum.java = Contains classic Twosum problem solution where we traverse through and array and return the index of two numbers who sum is equal to our target.
 
