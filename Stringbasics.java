@@ -28,7 +28,7 @@ class Stringbasics{
           */
 
     // Shortest Path
-    public static float getshortedtpath(String path){
+   /* public static float getshortedtpath(String path){
         int x=0;
         int y=0;
         for(int i=0; i<path.length(); i++){
@@ -49,7 +49,8 @@ class Stringbasics{
         int X2 = x*x;
         int Y2 = y*y;
         return (float)Math.sqrt(X2+Y2);
-    }      
+    }  
+        */     
 public static void main(String[] args) {
 
   /*   //Create a String
@@ -78,7 +79,20 @@ public static void main(String[] args) {
    System.out.println(isPalindrome(str1));
    */
 
+
+   //Equality of strings
+   String s1 = "Tina";
+   String s2 = new String("Tina");
+
+   
+   if(s1.equals(s2)){
+    System.out.println("Strings are Equal");
+   }
+
+
+/* 
    String Path = "NS";
    System.out.println(getshortedtpath(Path));
+   */
 }
 }
