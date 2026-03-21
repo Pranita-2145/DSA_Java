@@ -7,5 +7,6 @@ public class Bitwise {
         System.out.println((5 ^ 6)); //XOR
         System.out.println((~5)); //NOT
         System.out.println((5<<3));// Bitwise left shift
+        System.out.println((6>>1)); //Bitwise right shift
     }
 }
