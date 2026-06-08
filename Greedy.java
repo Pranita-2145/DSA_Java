@@ -4,6 +4,7 @@ class Greedy {
         int start[] = {1,3,0,5,8};
         int end[] = {2,4,6,7,9}; // sorted by end time
 
+        
         int maxAct = 1;
         ArrayList<Integer> ans = new ArrayList<>();
 
