@@ -40,8 +40,29 @@ class RecursionBasics{
        int fibn = fibnm1 + fibnm2;
        return fibn;
     }
+    //Sorted Array 
+    public static boolean isSorted(int []arr, int i){
+        if(i==arr.length-1){
+            return true;
+        }
+        if(arr[i] > arr[i+1]){
+            return false;
+        }
+       return  isSorted(arr, i+1);
+    }
+    //First Occurence
+    public static int FirstOccur(int[] arr,  int key, int i){
+        if(i==arr.length -1){
+            return -1;
+        }
+        if(arr[i] == key){
+            return i;
+        }
+        return FirstOccur(arr, key, i + 1);
+    }
     public static void main(String[] args) {
        int ans = fib(25);
-        System.out.println(ans);
+       int arr[] = {1,3,4, 2,4};
+        System.out.println(FirstOccur(arr, 4, 0));
     }
 }
